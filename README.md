@@ -1,15 +1,15 @@
-# 🌤️ SkyCast | Real-Time Weather Insights
+# 🌤️ Bloom Weather | Real-Time Weather Insights
 
 [![Vercel Deployment](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://weatherapp-indol-xi.vercel.app/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
-**SkyCast** is a sleek, responsive weather dashboard designed to give you instant atmospheric clarity. By leveraging real-time geolocation and high-precision weather APIs, SkyCast ensures you're never caught without an umbrella again.
+**Bloom Weather** is a sleek, responsive weather dashboard designed to give you instant atmospheric clarity. By leveraging real-time geolocation and high-precision weather APIs, Bloom Weather ensures you're never caught without an umbrella again.
 
 ---
 
 ## 🚀 Key Features
 
-*   **📍 Auto-Location Detection:** The moment you land, SkyCast fetches weather data for your exact coordinates.
+*   **📍 Auto-Location Detection:** The moment you land, Bloom Weather fetches weather data for your exact coordinates.
 *   **🔍 Global Search:** Curious about the temperature in Tokyo or London? Simply type any city name to get instant results.
 *   **📱 Responsive Design:** Optimized for mobile, tablet, and desktop viewing.
 *   **⚡ Powered by Vite:** Experience lightning-fast load times and a smooth UI.
